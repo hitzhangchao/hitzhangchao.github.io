@@ -1,4 +1,4 @@
-Hi, my name is Zhang Chao （张弨）. I'm currently a Ph.D candidate of [Harbin Institube of Technology, Shenzhen](http://en.hitsz.edu.cn/). I majar in Mechanical Engineering and my research interests include wheele-biped robots and continuum robots. I build this personal page to share my thoughts, techniques and life. Wellcome You!
+Hi, my name is Zhang Chao （张弨）. I'm currently a Ph.D. candidate of [Harbin Institube of Technology, Shenzhen](http://en.hitsz.edu.cn/). I majar in Mechanical Engineering and my research interests include wheele-biped robots and continuum robots. I build this personal page to share my thoughts, techniques and life. Wellcome You!
 
 ##### Education Experiments
 - 2020.3 - now  Harbin Institute of Technology, Shenzhen. Ph.D student of Mechanical Engineering. Supervisor: [Max Q.-H. Meng][1], [Wang Jiaole][2]
