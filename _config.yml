@@ -74,8 +74,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "Share my thoughts, techniques and life."
-sidebar-avatar: /img/che.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "hitzhangchao@126.com"
+sidebar-avatar: /img/yaoyao.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
@@ -91,5 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "Tangyou Liu", href: "https://scholar.google.com/citations?user=h27vluUAAAAJ&hl=en" },
+    { title: "Tangyou Liu", href: "https://sites.google.com/view/tangyouliu" },
   ]
