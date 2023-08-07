@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "转载|哈工大学子包揽ICRA 2018 DJI RoboMaster 人工智能挑战赛全球冠亚军"
+title: "News|哈工大学子包揽ICRA 2018 DJI RoboMaster 人工智能挑战赛全球冠亚军"
 subtitle: ""
 author: "Chao Zhang"
 #header-style: text
@@ -10,9 +10,9 @@ tags:
   - Robotics
 ---
 
-> 本文转载自[哈工大学子包揽ICRA 2018 DJI RoboMaster 人工智能挑战赛全球冠亚军](https://www.hitsz.edu.cn/article/view/id-41405.html)
+> [哈工大学子包揽ICRA 2018 DJI RoboMaster 人工智能挑战赛全球冠亚军](https://www.hitsz.edu.cn/article/view/id-41405.html)
 
-有幸和朋友们一起参加ICRA 2018 DJI RoboMaster AI Challenge，一起拼搏！在澳洲布里斯班留下美好的回忆~
+有幸和朋友们一起参加ICRA 2018 DJI RoboMaster AI Challenge，一起拼搏！在布里斯班留下美好的回忆~
 
 <div class="visible-md visible-lg">
 <img src="/img/robomaster_ai_challenge_01.jpg"/>
