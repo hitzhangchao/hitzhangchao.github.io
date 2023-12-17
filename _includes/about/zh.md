@@ -17,7 +17,7 @@ Hello, 我是张弨，目前是[哈尔滨工业大学（深圳）](https://www.h
 > [ResearchGate][5]
 
 ###### 2023
-- Chao Zhang, Guangdu Cen, Xing Yang, Xinhai Xu, Max Q.-H. Meng, Shuang Song<sup>∗</sup>, Jiaole Wang<sup>∗</sup>. [Design Optimization of Pyramid-Shaped Transmission System for Multi-Arm Concentric-Tube Robots](https://github.com/hitzhangchao/CTR/tree/main/Transmission_System_Optimal_Design). ASME/IEEE Transactions on Mechatronics. (Revise)
+- Chao Zhang, Guangdu Cen, Xing Yang, Xinhai Xu, Max Q.-H. Meng, Shuang Song<sup>∗</sup>, Jiaole Wang<sup>∗</sup>. [Design Optimization of Pyramid-Shaped Transmission System for Multi-Arm Concentric-Tube Robots](https://github.com/hitzhangchao/CTR/tree/main/Transmission_System_Optimal_Design). IEEE/ASME Transactions on Mechatronics. (Accepted on December 17, 2023)
 
 ###### 2022
 - Liang Xue, Xing Yang, Chao Zhang, Shuang Song, Jiaole Wang. [Ergonomics-based Design of Handheld Concentric Tube Robot](https://ieeexplore.ieee.org/abstract/document/10011984/authors#authors). 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), 2057-2062.
