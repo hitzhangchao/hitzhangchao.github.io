@@ -16,13 +16,16 @@ Hello, 我是张弨，目前是[哈尔滨工业大学（深圳）](https://www.h
 > 
 > [ResearchGate][5]
 
+###### 2024
+- Chao Zhang, Guangdu Cen, Xing Yang, Xinhai Xu, Max Q.-H. Meng, Shuang Song<sup>∗</sup>, Jiaole Wang<sup>∗</sup>. [Design Optimization of Pyramid-Shaped Transmission System for Multiarm Concentric-Tube Robots](https://ieeexplore.ieee.org/abstract/document/10386074/). IEEE/ASME Transactions on Mechatronics, early access.
+
 ###### 2023
-- Chao Zhang, Guangdu Cen, Xing Yang, Xinhai Xu, Max Q.-H. Meng, Shuang Song<sup>∗</sup>, Jiaole Wang<sup>∗</sup>. [Design Optimization of Pyramid-Shaped Transmission System for Multi-Arm Concentric-Tube Robots](https://github.com/hitzhangchao/CTR/tree/main/Transmission_System_Optimal_Design). IEEE/ASME Transactions on Mechatronics. (Accepted on December 17, 2023)
+- Fulin Jia, Shenghao Yang, Chenxi Han, Junye Li, Xuanru Han, Chao Zhang, Jiaole Wang. [Visual servoing-based pneumatic hair transplantation mechanism for robotic FUE surgery](https://www.sciencedirect.com/science/article/pii/S2667379723000426). Biomimetic Intelligence and Robotics, 3(4), 100128.
 
 ###### 2022
 - Liang Xue, Xing Yang, Chao Zhang, Shuang Song, Jiaole Wang. [Ergonomics-based Design of Handheld Concentric Tube Robot](https://ieeexplore.ieee.org/abstract/document/10011984/authors#authors). 2022 IEEE International Conference on Robotics and Biomimetics (ROBIO), 2057-2062.
 
-- Chao Zhang, Tangyou Liu, Shuang Song<sup>∗</sup>, Jiaole Wang<sup>∗</sup>, Max Q-H Meng. [Dynamic Wheeled Motion Control of Wheel-biped Transformable Robots](https://www.sciencedirect.com/science/article/pii/S2667379721000279). Biomimetic Intelligence and Robotics. 2(2), 100027.
+- Chao Zhang, Tangyou Liu, Shuang Song<sup>∗</sup>, Jiaole Wang<sup>∗</sup>, Max Q-H Meng. [Dynamic Wheeled Motion Control of Wheel-biped Transformable Robots](https://www.sciencedirect.com/science/article/pii/S2667379721000279). Biomimetic Intelligence and Robotics, 2(2), 100027.
 
 - Tangyou Liu, Chao Zhang, Jiaole Wang<sup>∗</sup>, Shuang Song<sup>∗</sup>, Max Q-H Meng. [Towards Terrain Adaptablity: In Situ Transformation of Wheel-biped Robots](https://ieeexplore.ieee.org/abstract/document/9705616). IEEE Robotics and Automation Letters, 7(2), 3819-3826.
 
